@@ -1,6 +1,13 @@
 # Starter pipeline
 - task: Security static source code analysis@88
   inputs:
+    CheckmarxService: 'teste'
+    projectName: 'teste'
+    preset: 'Checkmarx Default'
+    fullTeamName: 'CxServer'
+    incScan: true
+- task: Security static source code analysis@88
+  inputs:
     projectName: 'teste'
     preset: 'Checkmarx Default'
     fullTeamName: 'CxServer'
