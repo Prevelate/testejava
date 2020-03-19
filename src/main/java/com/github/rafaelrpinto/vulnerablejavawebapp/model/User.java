@@ -7,14 +7,13 @@ import java.io.Serializable;
  * Registered user of the application.
  * teste
  * @author Rafael
- * this is a test
+ * this is a test 12343
  */
 public class User implements Serializable {
 
 	private static final long serialVersionUID = 5746803907489367890L;
 
 
-	new test
 	private int id;
 	private String name;
 	private String email;
@@ -23,10 +22,6 @@ public class User implements Serializable {
 	public User() {
 
 	}
-	
-/* teste a just test
-*/
-
 
 	public String getPassword() {
 		return password;
