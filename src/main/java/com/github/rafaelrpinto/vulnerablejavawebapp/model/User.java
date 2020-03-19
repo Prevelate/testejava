@@ -5,7 +5,7 @@ import java.io.Serializable;
 /**
  * 
  * Registered user of the application.
- * 
+ * teste
  * @author Rafael
  * this is a test
  */
