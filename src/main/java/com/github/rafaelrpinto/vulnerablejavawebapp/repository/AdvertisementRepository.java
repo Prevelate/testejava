@@ -62,7 +62,7 @@ public class AdvertisementRepository {
 	}
 
 	/*
-	just a test 2
+	just a test 3
 	 */
 	/**
 	 * @return All the ads ordered by date.
