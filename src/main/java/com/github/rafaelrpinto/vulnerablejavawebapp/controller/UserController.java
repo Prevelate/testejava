@@ -18,7 +18,7 @@ import com.github.rafaelrpinto.vulnerablejavawebapp.repository.UserRepository;
  * 
  * Controller for requests related to users.
  * 
- * @author Rafael
+ * @author Gabriel Prevelate
  *
  */
 @Controller
