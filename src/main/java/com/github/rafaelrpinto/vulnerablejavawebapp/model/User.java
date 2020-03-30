@@ -7,7 +7,7 @@ import java.io.Serializable;
  * Registered user of the application.
  * teste
  * @author Rafael
- * Just a test 2
+ * Just a test 4
  */
 public class User implements Serializable {
 
