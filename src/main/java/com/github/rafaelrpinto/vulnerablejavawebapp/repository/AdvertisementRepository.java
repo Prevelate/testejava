@@ -61,6 +61,9 @@ public class AdvertisementRepository {
 		ad.setId(holder.getKey().intValue());
 	}
 
+	/*
+	just a test
+	 */
 	/**
 	 * @return All the ads ordered by date.
 	 */
